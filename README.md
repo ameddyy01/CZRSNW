@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ameddyy01
+- 👋 Hi, I’m @CZRSW
 - 👀 I’m interested in ...data analytics
 - 🌱 i've learnt excel and sql I’m currently learning power bi and afterward will learn python 
 - 💞️ I’m looking to collaborate on ... Data analytics project
